@@ -1,0 +1,8 @@
+ul{
+    background: aliceblue;
+    padding-right: 10px;
+    list-style-type: square;
+}
+ul li:hover{
+    background: yellowgreen;
+}
